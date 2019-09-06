@@ -1,0 +1,14 @@
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Service.deps.json
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Service.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Service.pdb
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Data.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Model.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Data.pdb
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\bin\Debug\netcoreapp2.2\OSM.Model.pdb
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.csprojAssemblyReference.cache
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.csproj.CoreCompileInputs.cache
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.AssemblyInfoInputs.cache
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.AssemblyInfo.cs
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.csproj.CopyComplete
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Service\obj\Debug\netcoreapp2.2\OSM.Service.pdb

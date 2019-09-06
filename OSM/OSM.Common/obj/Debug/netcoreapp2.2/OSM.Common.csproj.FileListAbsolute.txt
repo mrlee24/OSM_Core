@@ -1,0 +1,9 @@
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\bin\Debug\netcoreapp2.2\OSM.Common.deps.json
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\bin\Debug\netcoreapp2.2\OSM.Common.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\bin\Debug\netcoreapp2.2\OSM.Common.pdb
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.csproj.CoreCompileInputs.cache
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.AssemblyInfoInputs.cache
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.AssemblyInfo.cs
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.dll
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.pdb
+D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Common\obj\Debug\netcoreapp2.2\OSM.Common.csprojAssemblyReference.cache
