@@ -1,37 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Service\\OSM.Service.csproj": {}
+    "/Volumes/LaCie/OSM_Core/OSM/OSM.Service/OSM.Service.csproj": {}
   },
   "projects": {
-    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj": {
+    "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/OSM.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj",
+        "projectUniqueName": "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/OSM.Data.csproj",
         "projectName": "OSM.Data",
-        "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj",
-        "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\obj\\",
+        "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/OSM.Data.csproj",
+        "packagesPath": "/Users/sayohyeah/.nuget/packages/",
+        "outputPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sayohyeah/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj": {
-                "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj"
+              "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj": {
+                "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj"
               }
             }
           }
@@ -78,27 +76,25 @@
         }
       }
     },
-    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj": {
+    "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj",
+        "projectUniqueName": "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj",
         "projectName": "OSM.Model",
-        "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj",
-        "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\obj\\",
+        "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj",
+        "packagesPath": "/Users/sayohyeah/.nuget/packages/",
+        "outputPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sayohyeah/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,37 +142,35 @@
         }
       }
     },
-    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Service\\OSM.Service.csproj": {
+    "/Volumes/LaCie/OSM_Core/OSM/OSM.Service/OSM.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Service\\OSM.Service.csproj",
+        "projectUniqueName": "/Volumes/LaCie/OSM_Core/OSM/OSM.Service/OSM.Service.csproj",
         "projectName": "OSM.Service",
-        "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Service\\OSM.Service.csproj",
-        "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Service\\obj\\",
+        "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Service/OSM.Service.csproj",
+        "packagesPath": "/Users/sayohyeah/.nuget/packages/",
+        "outputPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Service/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/sayohyeah/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj": {
-                "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj"
+              "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/OSM.Data.csproj": {
+                "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Data/OSM.Data.csproj"
               },
-              "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj": {
-                "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj"
+              "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj": {
+                "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Model/OSM.Model.csproj"
               }
             }
           }

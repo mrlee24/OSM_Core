@@ -1,14 +1,28 @@
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Data.deps.json
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Data.runtimeconfig.json
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Data.runtimeconfig.dev.json
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Data.dll
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Data.pdb
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Model.dll
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\bin\Debug\netcoreapp2.2\OSM.Model.pdb
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.csprojAssemblyReference.cache
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.csproj.CoreCompileInputs.cache
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.AssemblyInfoInputs.cache
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.AssemblyInfo.cs
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.csproj.CopyComplete
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.dll
-D:\Backup Folder\IT Projects\OSM_Core\OSM\OSM.Data\obj\Debug\netcoreapp2.2\OSM.Data.pdb
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.deps.json
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.runtimeconfig.json
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.runtimeconfig.dev.json
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.dll
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.pdb
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Model.dll
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Model.pdb
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csprojAssemblyReference.cache
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csproj.CoreCompileInputs.cache
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.AssemblyInfoInputs.cache
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.AssemblyInfo.cs
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csproj.CopyComplete
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.dll
+D:/Backup Folder/IT Projects/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.pdb
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.deps.json
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.runtimeconfig.json
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.runtimeconfig.dev.json
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.dll
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Data.pdb
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Model.dll
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/bin/Debug/netcoreapp2.2/OSM.Model.pdb
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csprojAssemblyReference.cache
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csproj.CoreCompileInputs.cache
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.AssemblyInfoInputs.cache
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.AssemblyInfo.cs
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.csproj.CopyComplete
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.dll
+/Volumes/LaCie/OSM_Core/OSM/OSM.Data/obj/Debug/netcoreapp2.2/OSM.Data.pdb

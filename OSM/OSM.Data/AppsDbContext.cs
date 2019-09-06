@@ -47,20 +47,22 @@ namespace OSM.Data
             base.SaveChanges();
         }
 
-        protected override void OnModelCreating(ModelBuilder builder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(builder);
+            base.OnModelCreating(modelBuilder);
 
             //Select relationship from multiple collection
-            foreach (var relationship in builder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
+            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys()))
             {
                 relationship.DeleteBehavior = DeleteBehavior.Restrict;
             }
 
-            base.OnModelCreating(builder);
+            base.OnModelCreating(modelBuilder);
 
             //Composite keys can only be configured using the Fluent API
-            //Auto mappting
+            modelBuilder.Entity<PostTag>().HasKey(c => c.TagID);
+            modelBuilder.Entity<PostTag>().HasKey(c => c.PostID);
+            
         }
     }
 }

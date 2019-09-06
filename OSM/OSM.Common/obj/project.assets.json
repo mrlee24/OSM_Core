@@ -1173,30 +1173,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lyman\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/sayohyeah/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj",
+      "projectUniqueName": "/Volumes/LaCie/OSM_Core/OSM/OSM.Common/OSM.Common.csproj",
       "projectName": "OSM.Common",
-      "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj",
-      "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-      "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\obj\\",
+      "projectPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Common/OSM.Common.csproj",
+      "packagesPath": "/Users/sayohyeah/.nuget/packages/",
+      "outputPath": "/Volumes/LaCie/OSM_Core/OSM/OSM.Common/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lyman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sayohyeah/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

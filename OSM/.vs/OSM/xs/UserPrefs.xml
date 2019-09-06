@@ -1,23 +1,31 @@
 ﻿<Properties StartupConfiguration="{FB4117E1-C243-4B30-A428-B09FFA74F2EB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OSM.WebCMS/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OSM.Data/AppsDbContext.cs">
     <Files>
       <File FileName="OSM.WebCMS/Program.cs" Line="17" Column="1" />
       <File FileName="OSM.WebCMS/appsettings.Development.json" />
       <File FileName="OSM.WebCMS/appsettings.json" />
-      <File FileName="OSM.WebCMS/Areas/Admin/Controllers/HomeController.cs" Line="20" Column="1" />
+      <File FileName="OSM.WebCMS/Areas/Admin/Controllers/HomeController.cs" />
       <File FileName="OSM.WebCMS/Controllers/HomeController.cs" Line="43" Column="1" />
+      <File FileName="OSM.Data/AppsDbContext.cs" Line="64" Column="35" />
+      <File FileName="OSM.Model/Entities/PostTag.cs" Line="1" Column="1" />
+      <File FileName="OSM.Data/Migrations/20190906122650_initial12312412.Designer.cs" Line="1" Column="1" />
+      <File FileName="OSM.Data/Migrations/ApplicationDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="OSM.Data/SeedData.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OSM" expanded="True">
+            <Node name="OSM.Data" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="AppsDbContext.cs" selected="True" />
+            </Node>
+            <Node name="OSM.Model" expanded="True" />
             <Node name="OSM.WebCMS" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Admin" expanded="True" />
               </Node>
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
