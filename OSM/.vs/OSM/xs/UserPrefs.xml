@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FB4117E1-C243-4B30-A428-B09FFA74F2EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OSM.WebCMS/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="OSM.WebCMS/Program.cs" Line="17" Column="1" />
+      <File FileName="OSM.WebCMS/appsettings.Development.json" />
+      <File FileName="OSM.WebCMS/appsettings.json" />
+      <File FileName="OSM.WebCMS/Areas/Admin/Controllers/HomeController.cs" Line="20" Column="1" />
+      <File FileName="OSM.WebCMS/Controllers/HomeController.cs" Line="43" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OSM" expanded="True">
+            <Node name="OSM.WebCMS" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OSM.WebCMS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
