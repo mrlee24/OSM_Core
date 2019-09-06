@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Common\\OSM.Common.csproj": {}
+    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj": {}
   },
   "projects": {
-    "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Common\\OSM.Common.csproj": {
+    "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Common\\OSM.Common.csproj",
+        "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj",
         "projectName": "OSM.Common",
-        "projectPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Common\\OSM.Common.csproj",
+        "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\OSM.Common.csproj",
         "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Common\\obj\\",
+        "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

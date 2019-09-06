@@ -13043,11 +13043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.WebCMS\\OSM.WebCMS.csproj",
+      "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.WebCMS\\OSM.WebCMS.csproj",
       "projectName": "OSM.WebCMS",
-      "projectPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.WebCMS\\OSM.WebCMS.csproj",
+      "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.WebCMS\\OSM.WebCMS.csproj",
       "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-      "outputPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.WebCMS\\obj\\",
+      "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.WebCMS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13066,8 +13066,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Data\\OSM.Data.csproj": {
-              "projectPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Data\\OSM.Data.csproj"
+            "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj": {
+              "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj"
             }
           }
         }

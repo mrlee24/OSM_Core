@@ -4655,11 +4655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Data\\OSM.Data.csproj",
+      "projectUniqueName": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj",
       "projectName": "OSM.Data",
-      "projectPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Data\\OSM.Data.csproj",
+      "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\OSM.Data.csproj",
       "packagesPath": "C:\\Users\\lyman\\.nuget\\packages\\",
-      "outputPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Data\\obj\\",
+      "outputPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4678,8 +4678,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Model\\OSM.Model.csproj": {
-              "projectPath": "D:\\Backup Folder\\IT Projects\\OSM-Core\\OSM\\OSM.Model\\OSM.Model.csproj"
+            "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj": {
+              "projectPath": "D:\\Backup Folder\\IT Projects\\OSM_Core\\OSM\\OSM.Model\\OSM.Model.csproj"
             }
           }
         }
